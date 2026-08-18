@@ -1,0 +1,44 @@
+# LaTeX build artifacts (excluding final .pdf if you want to track it)
+*.log
+*.aux
+*.toc
+*.nav
+*.snm
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.dvi
+*.ps
+
+# LaTeX backup files
+*.bak
+*.backup
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS X files
+.DS_Store
+.DS_Store?
+._*
+
+# Auto-save files
+*~
+
+# Temporary files
+*.tmp
+*.temp
+tmp/
+
+# Jupyter notebook
+*.ipynb
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo

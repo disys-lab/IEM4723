@@ -1,4 +1,5 @@
 Paritosh Ramanan
+Trinity Young
 Kate Pritchett
 Elyse Sardegna
 Nadia Phan 

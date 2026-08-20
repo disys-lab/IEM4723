@@ -1,4 +1,5 @@
 Paritosh Ramanan
+Elyse Sardegna
 Nadia Phan 
 Bryce Haley 
 Morrow Entrekin

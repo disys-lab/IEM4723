@@ -1,1 +1,2 @@
 Paritosh Ramanan
+Kate Pritchett

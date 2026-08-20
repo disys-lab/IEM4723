@@ -1,4 +1,5 @@
 Paritosh Ramanan
+Nik Rhodes
 Dayton McCall
 Clayton Olsen
 Trinity Young

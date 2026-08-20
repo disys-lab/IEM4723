@@ -1,4 +1,5 @@
 Paritosh Ramanan
+Clayton Olsen
 Trinity Young
 Kate Pritchett
 Elyse Sardegna

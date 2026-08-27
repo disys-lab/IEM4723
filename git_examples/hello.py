@@ -1,3 +1,4 @@
 print("Hello World!")
 print("Hello Again!")
-print("Testing sync with the branch/fork")
+print("Hello from the fork!")
+print("Hello from Trinity's branch!")
